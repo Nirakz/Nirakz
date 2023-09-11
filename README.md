@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
@@ -33,6 +33,20 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CircleCI-282C34?logo=circleci&logoColor=white" alt="circleci logo" title="circleci" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=F7DF1E" alt="firebase logo" title="firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=white" alt="jquery logo" title="jquery" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=3178C6" alt="mui logo" title="mui" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NPM-282C34?logo=npm" alt="npm logo" title="npm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React_Router-282C34?logo=react-router&logoColor=F05032" alt="react-router logo" title="react-router" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React%20Hook%20Form-282C34?logo=reacthookform&logoColor=CC6699" alt="reacthookform logo" title="reacthookform" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
@@ -58,13 +72,13 @@
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="https://facebook.com/kanashi.nguyen" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://facebook.com/nirakz" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nirakz-facebook" />
   </a>
-  <a href="https://instagram.com/tan2ci3hdocarin" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://instagram.com/cin2hfrigide" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nirakz-instagram" />
   </a>
   <a href="mailto:ntchinh271099@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nirakz-email" />
   </a>
 </div>
